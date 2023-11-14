@@ -58,6 +58,7 @@ The following tools were used in this project:
 - Express (https://expressjs.com)
 - VSCode (https://code.visualstudio.com)
 - Docker (https://www.docker.com)
+- Git (https://git-scm.com)
 
 ## :white_check_mark: Requirements ##
 
