@@ -51,13 +51,13 @@ Full-stack Holy Grail app constructed using React. The app leverages Superagent 
 
 The following tools were used in this project:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [Superagent] (https://www.npmjs.com/package/superagent)
-- [Redis] (https://redis.io)
-- [Express] (https://expressjs.com)
-- [VSCode] (https://code.visualstudio.com)
-- [Docker] (https://www.docker.com)
+- Node.js (https://nodejs.org/en/)
+- React (https://pt-br.reactjs.org/)
+- Superagent (https://www.npmjs.com/package/superagent)
+- Redis (https://redis.io)
+- Express (https://expressjs.com)
+- VSCode (https://code.visualstudio.com)
+- Docker (https://www.docker.com)
 
 ## :white_check_mark: Requirements ##
 
